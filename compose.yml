@@ -6,6 +6,7 @@ services:
       VERSION: "11"
       RAM_SIZE: "8G"
       CPU_CORES: "4"
+      DISK_SIZE: "995G"
       USERNAME: "enderman"
       PASSWORD: "123456"
     devices:
